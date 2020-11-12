@@ -1383,7 +1383,7 @@ Light:
   serializedVersion: 8
   m_Type: 0
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 60
+  m_Intensity: 30
   m_Range: 12.02
   m_SpotAngle: 100.7312
   m_CookieSize: 10
@@ -3123,6 +3123,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1626969375370814344, guid: 5ae540a2dd7cf344d8c8c9bafc737268,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 1626969375370814348, guid: 5ae540a2dd7cf344d8c8c9bafc737268,
         type: 3}
       propertyPath: m_Name
@@ -3187,11 +3192,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1626969375370814344, guid: 5ae540a2dd7cf344d8c8c9bafc737268,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 1626969375370814346, guid: 5ae540a2dd7cf344d8c8c9bafc737268,
         type: 3}
